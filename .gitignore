@@ -1,0 +1,5 @@
+powershell.cmd
+powershell
+.venv/
+.ipynb_checkpoints/
+__pycache__/
